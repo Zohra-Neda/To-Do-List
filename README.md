@@ -77,13 +77,25 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Add Task]**
+- **[Remove Task]**
+- **[Edit Task]**
+- **[Display Tasks]**
+- **[Remove All Tasks Checked As Completed]**
+- **[Remove A Selected Task]**
+- **[Using HTML-Webpack-Plugin]**
+- **[Using Webpack CSS-Loader]**
+
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add it soon
-- [Live Demo Link](https://)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
