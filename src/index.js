@@ -4,16 +4,19 @@ const todosListEl = document.getElementById('todos-list');
 
 const todos = [
   {
-    description: 'task1',
-    isCompleted: true,
+    description: 'task 1',
+    completed: true,
+    index: 1,
   },
   {
-    description: 'task2',
-    isCompleted: false,
+    description: 'task 2',
+    completed: false,
+    index: 2,
   },
   {
-    description: 'task3',
-    isCompleted: false,
+    description: 'task 3',
+    completed: false,
+    index: 3,
   },
 ];
 
@@ -23,9 +26,9 @@ todos.forEach((todo, index) => {
   content += `
     <li id="todo-item">
       <div id=${index}>
-        <span class="bi-circle"></span>
+        <span class="bi-square"></span>
         <p>${todo.description}</p>
-        <p>${todo.isCompleted}</p>
+        <p>${todo.completed}</p>
       </div>
     </li>`;
 });
