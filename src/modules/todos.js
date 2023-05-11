@@ -75,7 +75,7 @@ export default class Tasks {
     this.tasksArray.push({
       description: value,
       isCompleted: false,
-      index: this.tasksArray.length,
+      index: this.tasksArray.length + 1,
     });
     this.saveAndRender();
   }
@@ -87,8 +87,8 @@ export default class Tasks {
 
   remove = (index) => {
     this.tasksArray.splice(index, 1);
-    this.tasksArray.forEach((task, index) => {
-      task.index = index;
+    this.tasksArray.forEach((task, i) => {
+      task.index = i + 1;
     });
     this.saveAndRender();
   }
