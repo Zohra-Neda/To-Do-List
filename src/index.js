@@ -1,9 +1,9 @@
 import './style.css';
 import Tasks from './modules/todos.js';
-import Status from './modules/tasksCompleted.js';
+import CompletedTasksStatus from './modules/tasksCompleted.js';
 
 const tasks = new Tasks();
-const status = new Status();
+const status = new CompletedTasksStatus();
 
 // display the todo list from storage
 tasks.displayList();
