@@ -123,7 +123,7 @@ Clone this repository to your desired folder:
 Example commands:
 
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  https://github.com/Zohra-Neda/To-Do-List.git
 
 ### Install
 
@@ -133,7 +133,7 @@ Install this project with:
 Example command:
 
   cd my-project
-  gem install
+  npm install
 
 
 ### Usage
@@ -142,7 +142,7 @@ To run the project, execute the following command:
 
 
 Example command:
-Open index.html in your browser
+npm start
 
 ### Deployment
 
