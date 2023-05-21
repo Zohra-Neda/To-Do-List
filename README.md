@@ -68,14 +68,10 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML5</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS3</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">JAVASCRIPT(ES6)</a></li>
-    <li>Webpack</i>
-  </ul>
-</details>
+- **HTML5**
+- **CSS3**
+- **JavaScript(ES6)**
+- **Webpack**
 
 <!-- Features -->
 
@@ -95,7 +91,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://zohra-neda.github.io/To-Do-List/)
+- [Live Demo Link](https://zohra-neda.github.io/To-Do-List/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
